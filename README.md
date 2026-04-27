@@ -1,5 +1,4 @@
-<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/e8f143d1-edd5-424e-808c-fd147938c787" /># Gpt-image-2-Export-4K-Skills
-# Skill 简介
+# LY-Gpt-image-2-Export-4K-Skills 简介
 
 这是一个用于**通用图片高清导出与清晰度增强**的工作流 Skill。
 
@@ -13,3 +12,15 @@
 
 面向所有小白的使用教程：
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/5808e216-6384-419f-ab8d-19aca0945664" />
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/869319e2-81e3-4919-9ceb-d32e0de760cf" />
+<img width="1051" height="435" alt="image" src="https://github.com/user-attachments/assets/7c6022a2-7cec-408d-99b2-6bd0fd2fa592" />
+<img width="1020" height="371" alt="image" src="https://github.com/user-attachments/assets/c9da80d4-b938-449e-ba52-6ccd7483bdeb" />
+<img width="1551" height="900" alt="image" src="https://github.com/user-attachments/assets/8fe5cd50-a3c2-4c77-a085-21da9881600a" />
+<img width="1588" height="899" alt="image" src="https://github.com/user-attachments/assets/970ab178-61e9-4394-99c0-8569a2ed50af" />
+<img width="1620" height="895" alt="image" src="https://github.com/user-attachments/assets/63b3826b-fa38-4d50-9b28-f79d0e6bff44" />
+<img width="1554" height="895" alt="image" src="https://github.com/user-attachments/assets/1f29904c-8ef0-42f4-905b-686c45a143a3" />
+<img width="1265" height="799" alt="image" src="https://github.com/user-attachments/assets/b50bfd1e-e29b-4528-b82b-ff96c15306bb" />
+整体来说是有提高一点点画质的，但是可能还是官方有所限制，清晰度没有更好地提高。
+
+
+
