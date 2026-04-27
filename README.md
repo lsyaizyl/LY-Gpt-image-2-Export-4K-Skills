@@ -1,4 +1,4 @@
-# Gpt-image-2-Export-4K-Skills
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/e8f143d1-edd5-424e-808c-fd147938c787" /># Gpt-image-2-Export-4K-Skills
 # Skill 简介
 
 这是一个用于**通用图片高清导出与清晰度增强**的工作流 Skill。
@@ -10,3 +10,6 @@
 同时，本 Skill 也包含针对不同图片类型的增强重点，例如文字海报优先保证文字清晰，产品图优先保证轮廓和材质，人像图优先保证自然五官和皮肤质感，技术图优先保证线条、标注和结构准确。
 
 适合用于构建一个稳定、可复用的图片高清导出流程，避免出现图片被错误拉伸、裁切、比例改变、文字乱码未修复、导出尺寸不说明等问题。
+
+面向所有小白的使用教程：
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/5808e216-6384-419f-ab8d-19aca0945664" />
